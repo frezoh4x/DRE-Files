@@ -21,7 +21,7 @@ def GUI():
 ██║  ██║██╔══██╗██╔══╝      ██╔══╝  ██║██║     ██╔══╝  ╚════██║
 ██████╔╝██║  ██║███████╗    ██║     ██║███████╗███████╗███████║
 ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝
-                                        Created By ZaikoARG                
+                                        Created By FREZO                
     """, style="bold yellow")
 
 r = requests.get('https://pastebin.com/raw/Z9eJumF4')
